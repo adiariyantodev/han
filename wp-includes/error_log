@@ -1,0 +1,34 @@
+[30-Jun-2024 11:52:46 Asia/Jakarta] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/hanid/public_html/wp-includes/class-wp-http.php on line 11
+[30-Jun-2024 11:52:46 Asia/Jakarta] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/hanid/public_html/wp-includes/class-wp-http.php on line 11
+[30-Jun-2024 11:52:46 Asia/Jakarta] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home/hanid/public_html/wp-includes/class-wp-http.php on line 11
+[30-Jun-2024 11:52:46 Asia/Jakarta] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home/hanid/public_html/wp-includes/class-wp-http.php on line 11
+[30-Jun-2024 11:52:46 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hanid/public_html/wp-includes/class-wp-http.php on line 11
+[30-Jun-2024 11:52:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/hanid/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hanid/public_html/wp-includes/class-wp-scripts.php on line 18
+[30-Jun-2024 11:52:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/hanid/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hanid/public_html/wp-includes/class-wp-styles.php on line 18
+[30-Jun-2024 11:52:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hanid/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hanid/public_html/wp-includes/template-canvas.php on line 12
+[03-Jul-2024 19:05:09 Asia/Jakarta] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/hanid/public_html/wp-includes/class-wp-http.php on line 11
+[03-Jul-2024 19:05:09 Asia/Jakarta] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/hanid/public_html/wp-includes/class-wp-http.php on line 11
+[03-Jul-2024 19:05:09 Asia/Jakarta] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home/hanid/public_html/wp-includes/class-wp-http.php on line 11
+[03-Jul-2024 19:05:09 Asia/Jakarta] PHP Warning:  require(ABSPATHWPINC/Requests/src/Autoload.php): failed to open stream: No such file or directory in /home/hanid/public_html/wp-includes/class-wp-http.php on line 11
+[03-Jul-2024 19:05:09 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/Requests/src/Autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/hanid/public_html/wp-includes/class-wp-http.php on line 11
+[03-Jul-2024 19:05:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/hanid/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hanid/public_html/wp-includes/class-wp-scripts.php on line 18
+[03-Jul-2024 19:05:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/hanid/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hanid/public_html/wp-includes/class-wp-styles.php on line 18
+[03-Jul-2024 19:07:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/hanid/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hanid/public_html/wp-includes/template-canvas.php on line 12

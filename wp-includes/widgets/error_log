@@ -1,0 +1,8 @@
+[30-Jun-2024 11:53:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/hanid/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/hanid/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Jul-2024 19:12:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/hanid/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/hanid/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
